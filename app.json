@@ -1,5 +1,5 @@
 {
-  "name": "SIGMA-MD WHATSAPP BOT BY MAHER ZUBAIR",
+  "name": "SIGMA-MD WHATSAPP BOT ✭𓅃ₛₐⱼᵢdੌ♥️",
   "description": "A Whatsapp Bot With Most Premium Features Makes Your Whatsapp Premium. For Any Help See My YT:https://www.youtube.com/@InnoxentTech",
   "logo": "https://telegra.ph/file/e5768d0b5a4441b4e576b.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "SIGMA_MD", "SIGMA_BOT", "SIGMA","SIGMA_MD-BOT","Multi-Themes Bot","multi device"],
@@ -8,7 +8,7 @@
 "env": {
   "OWNER_NAME": {
   "description": "Name of Bot Owner",
-      "value": "Maher Zubair"
+      "value": "✭𓅃ₛₐⱼᵢdੌ♥️"
   },
    "THUMB_IMAGE": {
     "description": "THUMBNAIL Image for bot.",
@@ -64,7 +64,7 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "923466319114"
+       "value": "923437694013"
   },
    "SESSION_ID": {
     "description": "Please put your SESSION_ID here,if you don't have visit to get Session id\nhttps://replit.com/@Mehar-Zubair/SIGMA-MD?v=1"
@@ -99,7 +99,7 @@
   },
 "PACK_AUTHER": {
     "description": "Put Sticker Author_Name.",
-     "value": "ᴍᴀʜᴇʀ ᴢᴜʙᴀɪʀ",
+     "value": "✭𓅃ₛₐⱼᵢdੌ♥️",
      "required": false 
   },
 "TIME_ZONE": {
@@ -109,13 +109,13 @@
 },
 "MZTIT": {
   "description": "Add Your Title",
-   "value": "🅼♥︎❚❚♥︎🆉"
+   "value": "✭𓅃ₛₐⱼᵢdੌ♥️"
     
 },
 "GNAME": {
   "description": "Add Your Group Name Here.You Can See in Most Commands",
-   "value": "sɪɢᴍᴀ ᴹᴰ-sᴜᴘᴘᴏʀᴛ",
-    "required": false
+   "value": "˚₊· ͟͟͞͞➳❥عشق بے پروا🥺 🥀 ✧",
+    "required": true
 },
 "WAURL": {
   "description": "Add Your Group Link.You Can See IT IN Most Commands",
@@ -124,7 +124,7 @@
 },
 "BOT_NAME": {
   "description": "Add Your Own Bot Name",
-   "value": "sɪɢᴍᴀ ᴹᴰ"
+   "value": "✭𓅃ₛₐⱼᵢdੌ♥️"
     
 },
 "REMOVE_BG_KEY": {
