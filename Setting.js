@@ -3,7 +3,7 @@ if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/co
 
 
 //═══════[Required Variables]════════,[Make sure you put all values in "" , '']\\
-global.owner = process.env.OWNER_NUMBER || '923466319114' ; // Add Your Number without +
+global.owner = process.env.OWNER_NUMBER || '923054481589' ; // Add Your Number without +
 global.mongodb = process.env.MONGODB_URI || "mongodb+srv://Maher-Zubair:SIGMA-MD@zubi.9g6b16y.mongodb.net/?retryWrites=true&w=majority&appName=AtlasApp" ; // put mongodb key here
 global.port=5000  ;
 global.audio = '' ; 
@@ -12,22 +12,22 @@ global.blockJids = process.env.BLOCK_JID ||'120363169665426586@g.us' ;
 global.allowJids = process.env.ALLOW_JID ||'120363169665426586@g.us' ;
 global.email = 'HELP_SIGMA-MD@outlook.com' ; 
 global.github = 'https://github.com/Maher-Zubair/SIGMA-MD' ;
-global.location = 'Lahore Pakistan' ;
+global.location = 'Maharwali Bahawalnagar' ;
 global.timezone  = process.env.TIME_ZONE || 'Asia/Karachi' //add correct timezone or leave it same , otherwise you get erros
-global.gurl = 'https://www.youtube.com/@InnoxentTech?sub_confirmation=1' ; 
-global.sudo =  process.env.SUDO || "923466319114" ; // Do not change it
-global.devs = "923466319114"; //Dont change it From here
-global.mztit = process.env.MZTIT ||"🅼♥︎❚❚♥︎🆉", // add your title here
-global.Gname = process.env.GNAME ||"sɪɢᴍᴀ ᴹᴰ-sᴜᴘᴘᴏʀᴛ",
-global.zyt = process.env.ZYT || 'https://www.youtube.com/@InnoxentTech?sub_confirmation=1',
-global.waUrl = process.env.WAURL ||"https://chat.whatsapp.com/CmY0THcJCUYEGxLJulhcRV",
+global.gurl = '923054481589' ; 
+global.sudo =  process.env.SUDO || "923054481589" ; // Do not change it
+global.devs = "923054481589"; //Dont change it From here
+global.mztit = process.env.MZTIT ||" 𝐵𝛪ل𝛥ل  𝑅𝛥ج𝛲𝑈𝑇", // add your title here
+global.Gname = process.env.GNAME ||"Bilal ᴹᴰ-sᴜᴘᴘᴏʀᴛ",
+global.zyt = process.env.ZYT || '923054481589',
+global.waUrl = process.env.WAURL ||"923054481589",
 global.website = 'http://lnkiy.in/SIGMA-MD-WEB' ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/03e49e6e2057568db8926.jpg' ;
 module.exports = {
   sessionName: process.env.SESSION_ID || '',      //Put Your Session Id Here
-  botname: process.env.BOT_NAME || 'sɪɢᴍᴀ ᴹᴰ',  // add the botname you want
-  ownername:  process.env.OWNER_NAME || `ᴍᴀʜᴇʀ ᴢᴜʙᴀɪʀ`, // add your name
-  author:  process.env.PACK_AUTHER || 'ᴍᴀʜᴇʀ ᴢᴜʙᴀɪʀ', 
+  botname: process.env.BOT_NAME || ' 𝐵𝛪ل𝛥ل  𝑅𝛥ج𝛲𝑈𝑇',  // add the botname you want
+  ownername:  process.env.OWNER_NAME || ` 𝐵𝛪ل𝛥ل  𝑅𝛥ج𝛲𝑈𝑇`, // add your name
+  author:  process.env.PACK_AUTHER || ' 𝐵𝛪ل𝛥ل  𝑅𝛥ج𝛲𝑈𝑇', 
   auto_read_status : process.env.AUTO_READ_STATUS || 'false', // if it true it automatically views status and send status in your inbox
   packname:  process.env.PACK_NAME || "sɪɢᴍᴀ ᴹᴰ" , 
   autoreaction: process.env.AUTO_REACTION || 'true', // if it true it will react to all messages
@@ -47,8 +47,8 @@ module.exports = {
   HEROKU_APP_NAME: process.env.HEROKU_APP_NAME,
   HEROKU_API_KEY: process.env.HEROKU_API_KEY,
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "34wcCGPoe3yaGtpiBZgx4SN7", // add your remove bg key if you have it
-  caption :process.env.CAPTION || "\t*⤹★ᴘᴏᴡᴇʀᴇᴅ ʙʏ★⤸ sɪɢᴍᴀ ᴹᴰ* ",   //*『sᴜʙsᴄʀɪʙᴇ • ɪɴɴᴏxᴇɴᴛ ᴛᴇᴄʜ』https://www.youtube.com/@InnoxentTech,
-  promote_demote_messages : process.env.PROMOTE_DEMOTE_MESSAGES || 'true' ,
+  caption :process.env.CAPTION || "\t*⤹★ᴘᴏᴡᴇʀᴇᴅ ʙʏ★⤸ Bilal ᴹᴰ* ",   //*923054481589,
+  promote_demote_messages : process.env.PROMOTE_DEMOTE_MESSAGES || 'false' ,
   OPENAI_API_KEY: process.env.OPENAI_API_KEY ||'' , // add your openai key if you have it
   VERSION: process.env.VERSION || '𝚅.𝟷.𝟸.𝟽',
   LANG: process.env.THEME|| 'SIGMA_MD',
