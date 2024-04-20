@@ -84,7 +84,7 @@
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author Name.",
-      "value": "AHMAD_MD,
+      "value": "AHMAD_MD"
       "required": false
     },
     "MZTIT": {
